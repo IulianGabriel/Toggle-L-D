@@ -18,8 +18,8 @@ color: #fdb857;
 }
 
 .darkMode{
-    max-width: 1920px;
-    height: 979px;
+    max-width: 100vw;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
